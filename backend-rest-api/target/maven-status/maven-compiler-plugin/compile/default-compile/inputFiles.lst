@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\SpringBoot\codeDemo\Login_Register_Project\backend-rest-api\src\main\java\com\backend\backendrestapi\payload\SignUpDto.java
+C:\Users\Asus\Documents\SpringBoot\codeDemo\Login_Register_Project\backend-rest-api\src\main\java\com\backend\backendrestapi\entity\Role.java
+C:\Users\Asus\Documents\SpringBoot\codeDemo\Login_Register_Project\backend-rest-api\src\main\java\com\backend\backendrestapi\BackendRestApiApplication.java
+C:\Users\Asus\Documents\SpringBoot\codeDemo\Login_Register_Project\backend-rest-api\src\main\java\com\backend\backendrestapi\repository\RoleRepository.java
+C:\Users\Asus\Documents\SpringBoot\codeDemo\Login_Register_Project\backend-rest-api\src\main\java\com\backend\backendrestapi\controller\AuthController.java
+C:\Users\Asus\Documents\SpringBoot\codeDemo\Login_Register_Project\backend-rest-api\src\main\java\com\backend\backendrestapi\service\UsersDetailsService.java
+C:\Users\Asus\Documents\SpringBoot\codeDemo\Login_Register_Project\backend-rest-api\src\main\java\com\backend\backendrestapi\entity\User.java
+C:\Users\Asus\Documents\SpringBoot\codeDemo\Login_Register_Project\backend-rest-api\src\main\java\com\backend\backendrestapi\config\SecurityConfig.java
+C:\Users\Asus\Documents\SpringBoot\codeDemo\Login_Register_Project\backend-rest-api\src\main\java\com\backend\backendrestapi\repository\UserRepository.java
+C:\Users\Asus\Documents\SpringBoot\codeDemo\Login_Register_Project\backend-rest-api\src\main\java\com\backend\backendrestapi\payload\LoginDto.java
